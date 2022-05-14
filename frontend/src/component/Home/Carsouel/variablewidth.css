@@ -1,0 +1,15 @@
+.slider_img {
+  max-width: 241px;
+  max-height: 211px;
+}
+
+.divcolor {
+  background: white;
+}
+
+.header_text {
+  font-weight: 700;
+  font-size: 21px;
+  line-height: 32px;
+  color: #0f1111;
+}

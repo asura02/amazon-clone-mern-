@@ -1,0 +1,161 @@
+.navbar_component {
+  width: 99vw;
+  height: 60px;
+  background-color: black;
+  display: flex;
+}
+
+* {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.navbar_logo {
+  background: url("https://ik.imagekit.io/amazon98670/amazon-image/sprite_350x__YwDQsya2.png?ik-sdk-version=javascript-1.4.3&updatedAt=1646748604653")
+    no-repeat -9px -50px;
+  width: 98px;
+  height: 31px;
+  margin: 18px;
+}
+.navbar_locator {
+  display: flex;
+  margin: 20px 0px;
+}
+
+.navbar_location {
+  color: white;
+  margin-left: 5px;
+}
+
+.navbar_searchBar {
+  width: 48vw;
+  height: 45px;
+  margin-top: 8px;
+  border: 0px;
+}
+
+.navbar_search {
+  display: flex;
+  flex: 1;
+  margin-left: 25px;
+}
+
+.navbar_locatorImage {
+  background: url("https://ik.imagekit.io/amazon98670/amazon-image/sprite_350x__YwDQsya2.png?ik-sdk-version=javascript-1.4.3&updatedAt=1646748604653")
+    no-repeat -70px -305px;
+  width: 19px;
+  height: 22px;
+}
+
+.search_icon {
+  background: url("https://ik.imagekit.io/amazon98670/amazon-image/sprite_350x__YwDQsya2.png?ik-sdk-version=javascript-1.4.3&updatedAt=1646748604653")
+    no-repeat -9px -289px;
+  width: 23px;
+  height: 23px;
+  margin: 13px;
+}
+
+.select_option {
+  width: 60px;
+  height: 45px;
+  margin-top: 8px;
+  background-color: #dadada;
+  border-radius: 5px 0 0 5px;
+  text-align: center;
+  border: 0px;
+}
+
+.search_iconDiv {
+  background-color: #f3a847;
+  width: 48px;
+  height: 45px;
+  border: 0px;
+  border-radius: 0 5px 5px 0;
+  margin-top: 8px;
+}
+
+.navbar_last {
+  display: flex;
+}
+
+.navbar_signin {
+  width: 120px;
+  margin-top: 10px;
+  margin-left: 8px;
+}
+
+.navbar_return {
+  width: 75px;
+  margin-top: 10px;
+  margin-left: 8px;
+}
+
+.navbar_text {
+  color: white;
+}
+
+.cart_img {
+  background: url("https://ik.imagekit.io/amazon98670/amazon-image/sprite_350x__YwDQsya2.png?ik-sdk-version=javascript-1.4.3&updatedAt=1646748604653")
+    no-repeat -217px -336px;
+  width: 43px;
+  height: 30px;
+}
+
+.navbar_cart {
+  display: flex;
+  margin-top: 16px;
+}
+
+.navbar_cart_text {
+  margin-top: 12px;
+  font-weight: bold;
+  position: relative;
+  left: -11px;
+}
+
+.inputsubmitdiv {
+  background-color: #f3a847;
+  width: 48px;
+  height: 45px;
+  border: 0px;
+  color: #f3a847;
+  border-radius: 0 5px 5px 0;
+  margin-top: 8px;
+
+  position: relative;
+  left: 0;
+}
+
+.cart_items {
+  font-weight: bold;
+  position: relative;
+  left: -23px;
+  color: #f08604;
+  top: -3px;
+}
+
+/* ---------------------------------------------------?
+ */
+
+.navbar_footer {
+  background-color: #232f3e;
+  width: 99vw;
+  height: 38px;
+  color: white;
+  display: flex;
+}
+
+.navbar_footer_text {
+  margin: 5px 10px;
+  font-size: 0.9vw;
+  font-weight: bold;
+}
+
+.lastlast {
+  background: url("https://ik.imagekit.io/amazon98670/imagess/XCM_Manual_1321458_1651511_IN_3781247_400x39_en_IN._CB655944656__FSDOKv44a.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1647611484324");
+  width: 24vw;
+}

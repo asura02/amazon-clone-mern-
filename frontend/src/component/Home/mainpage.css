@@ -1,0 +1,38 @@
+.mainpage {
+  position: absolute;
+  background: #eaeded;
+  width: 99vw;
+  padding: 0 2vw;
+}
+
+.main_div {
+  background-color: #eaeded;
+}
+
+.maskimg {
+  mask-image: linear-gradient(to bottom, rgb(0, 0, 0) 50%, rgba(0, 0, 0, 0));
+}
+
+.divwithbox {
+  position: relative;
+  top: -360px;
+}
+
+.sendback {
+  width: 100vw;
+  background-color: #485769;
+  height: 50px;
+  text-align: center;
+  position: absolute;
+  left: -16px;
+}
+
+.sendback > a {
+  color: white;
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 19px;
+  position: relative;
+  top: 13px;
+}
